@@ -1,0 +1,12 @@
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\bin\Debug\netcoreapp3.1\AuthServer.Data.deps.json
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\bin\Debug\netcoreapp3.1\AuthServer.Data.dll
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\bin\Debug\netcoreapp3.1\AuthServer.Data.pdb
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\obj\Debug\netcoreapp3.1\AuthServer.Data.csprojAssemblyReference.cache
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\obj\Debug\netcoreapp3.1\AuthServer.Data.AssemblyInfoInputs.cache
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\obj\Debug\netcoreapp3.1\AuthServer.Data.AssemblyInfo.cs
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\obj\Debug\netcoreapp3.1\AuthServer.Data.csproj.CoreCompileInputs.cache
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\obj\Debug\netcoreapp3.1\AuthServer.Data.dll
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\obj\Debug\netcoreapp3.1\AuthServer.Data.pdb
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\bin\Debug\netcoreapp3.1\AuthServer.Core.dll
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\bin\Debug\netcoreapp3.1\AuthServer.Core.pdb
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\obj\Debug\netcoreapp3.1\AuthServer.Data.csproj.CopyComplete

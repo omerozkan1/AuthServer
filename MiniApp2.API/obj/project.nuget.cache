@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BtjAt3QRegdY6YKeCi+EUt1MGGvKCMlwShx05gR8DnxUWQXPMSJYcSukzmCX2CakqqB3yZFphvu189xA6LlPjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ÖmerÖzkan\\source\\repos\\AuthServer\\MiniApp2.API\\MiniApp2.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ÖmerÖzkan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ÖmerÖzkan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ÖmerÖzkan\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\ÖmerÖzkan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\ÖmerÖzkan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\ÖmerÖzkan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

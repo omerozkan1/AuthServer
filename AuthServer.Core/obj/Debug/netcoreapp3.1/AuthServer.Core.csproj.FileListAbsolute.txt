@@ -1,0 +1,9 @@
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Core\bin\Debug\netcoreapp3.1\AuthServer.Core.deps.json
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Core\bin\Debug\netcoreapp3.1\AuthServer.Core.dll
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Core\bin\Debug\netcoreapp3.1\AuthServer.Core.pdb
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Core\obj\Debug\netcoreapp3.1\AuthServer.Core.csprojAssemblyReference.cache
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Core\obj\Debug\netcoreapp3.1\AuthServer.Core.AssemblyInfoInputs.cache
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Core\obj\Debug\netcoreapp3.1\AuthServer.Core.AssemblyInfo.cs
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Core\obj\Debug\netcoreapp3.1\AuthServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Core\obj\Debug\netcoreapp3.1\AuthServer.Core.dll
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Core\obj\Debug\netcoreapp3.1\AuthServer.Core.pdb
