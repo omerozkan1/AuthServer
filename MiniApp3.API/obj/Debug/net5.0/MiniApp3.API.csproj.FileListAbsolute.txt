@@ -26,3 +26,6 @@ C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp3.API\obj\Debug\net5.0\MiniA
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp3.API\obj\Debug\net5.0\ref\MiniApp3.API.dll
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.pdb
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.genruntimeconfig.cache
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp3.API\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp3.API\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp3.API\obj\Debug\net5.0\MiniApp3.API.csprojAssemblyReference.cache

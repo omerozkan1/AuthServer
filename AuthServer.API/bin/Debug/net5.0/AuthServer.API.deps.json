@@ -26,6 +26,7 @@
       "AuthServer.API/1.0.0": {
         "dependencies": {
           "AuthServer.Service": "1.0.0",
+          "SharedLibrary": "1.0.0",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
@@ -405,6 +406,14 @@
         },
         "compile": {
           "AuthServer.Service.dll": {}
+        }
+      },
+      "SharedLibrary/1.0.0": {
+        "runtime": {
+          "SharedLibrary.dll": {}
+        },
+        "compile": {
+          "SharedLibrary.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -2166,6 +2175,11 @@
       "sha512": ""
     },
     "AuthServer.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharedLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

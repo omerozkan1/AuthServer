@@ -33,3 +33,5 @@ C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\bin\Debug\net5.0\Aut
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\bin\Debug\net5.0\AuthServer.Core.pdb
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\bin\Debug\net5.0\AuthServer.Data.pdb
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthServer.API.csprojAssemblyReference.cache
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\bin\Debug\net5.0\SharedLibrary.pdb
