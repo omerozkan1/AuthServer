@@ -236,7 +236,8 @@
       },
       "AuthServer.Core/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.2"
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.2",
+          "SharedLibrary": "1.0.0"
         },
         "runtime": {
           "AuthServer.Core.dll": {}
@@ -248,6 +249,11 @@
         },
         "runtime": {
           "AuthServer.Data.dll": {}
+        }
+      },
+      "SharedLibrary/1.0.0": {
+        "runtime": {
+          "SharedLibrary.dll": {}
         }
       }
     }
@@ -411,6 +417,11 @@
       "sha512": ""
     },
     "AuthServer.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharedLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

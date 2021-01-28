@@ -326,14 +326,18 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.2"
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.2",
+          "SharedLibrary": "1.0.0"
         },
         "compile": {
           "bin/placeholder/AuthServer.Core.dll": {}
         },
         "runtime": {
           "bin/placeholder/AuthServer.Core.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "AuthServer.Data/1.0.0": {
         "type": "project",
@@ -346,7 +350,10 @@
         },
         "runtime": {
           "bin/placeholder/AuthServer.Data.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "AuthServer.Service/1.0.0": {
         "type": "project",
@@ -359,7 +366,10 @@
         },
         "runtime": {
           "bin/placeholder/AuthServer.Service.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "SharedLibrary/1.0.0": {
         "type": "project",

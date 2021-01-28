@@ -236,10 +236,16 @@
       },
       "AuthServer.Core/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.2"
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.2",
+          "SharedLibrary": "1.0.0"
         },
         "runtime": {
           "AuthServer.Core.dll": {}
+        }
+      },
+      "SharedLibrary/1.0.0": {
+        "runtime": {
+          "SharedLibrary.dll": {}
         }
       }
     }
@@ -398,6 +404,11 @@
       "hashPath": "system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
     },
     "AuthServer.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharedLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -565,7 +565,8 @@
       },
       "AuthServer.Core/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.2"
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.2",
+          "SharedLibrary": "1.0.0"
         },
         "runtime": {
           "AuthServer.Core.dll": {}
