@@ -12,3 +12,6 @@ C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\bin\Debug\netcoreap
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\obj\Debug\netcoreapp3.1\AuthServer.Data.csproj.CopyComplete
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\bin\Debug\netcoreapp3.1\SharedLibrary.dll
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\bin\Debug\netcoreapp3.1\SharedLibrary.pdb
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\bin\Debug\netcoreapp3.1\AuthServer.Data.runtimeconfig.json
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\bin\Debug\netcoreapp3.1\AuthServer.Data.runtimeconfig.dev.json
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.Data\obj\Debug\netcoreapp3.1\AuthServer.Data.genruntimeconfig.cache

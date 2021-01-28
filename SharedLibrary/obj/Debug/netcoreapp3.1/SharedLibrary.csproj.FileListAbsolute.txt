@@ -6,3 +6,4 @@ C:\Users\ÖmerÖzkan\source\repos\AuthServer\SharedLibrary\obj\Debug\netcoreapp3
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\SharedLibrary\obj\Debug\netcoreapp3.1\SharedLibrary.csproj.CoreCompileInputs.cache
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\SharedLibrary\obj\Debug\netcoreapp3.1\SharedLibrary.dll
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\SharedLibrary\obj\Debug\netcoreapp3.1\SharedLibrary.pdb
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\SharedLibrary\obj\Debug\netcoreapp3.1\SharedLibrary.csprojAssemblyReference.cache
