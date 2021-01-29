@@ -1,4 +1,4 @@
-﻿using AuthServer.Core.Repository.Abstract;
+﻿using AuthServer.Core.Repository;
 using AuthServer.Data.Context;
 using Microsoft.EntityFrameworkCore;
 using System;

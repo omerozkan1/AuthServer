@@ -1,4 +1,4 @@
-﻿using AuthServer.Core.Repository.Abstract;
+﻿using AuthServer.Core.Repository;
 using AuthServer.Core.Services;
 using AuthServer.Core.UnitOfWork;
 using AuthServer.Service.Mapping;

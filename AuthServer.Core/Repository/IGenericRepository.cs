@@ -4,7 +4,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
-namespace AuthServer.Core.Repository.Abstract
+namespace AuthServer.Core.Repository
 {
     public interface IGenericRepository<T> where T:class
     {

@@ -1,7 +1,7 @@
 ﻿using AuthServer.Core.Configuration;
 using AuthServer.Core.DTOs;
 using AuthServer.Core.Entity;
-using AuthServer.Core.Repository.Abstract;
+using AuthServer.Core.Repository;
 using AuthServer.Core.Services;
 using AuthServer.Core.UnitOfWork;
 using Microsoft.AspNetCore.Identity;

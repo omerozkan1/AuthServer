@@ -1,9 +1,11 @@
 using AuthServer.Core.Configuration;
 using AuthServer.Core.Entity;
-using AuthServer.Core.Repository.Abstract;
+using AuthServer.Core.Repository;
 using AuthServer.Core.Services;
 using AuthServer.Core.UnitOfWork;
 using AuthServer.Data.Context;
+using AuthServer.Data.Repository;
+using AuthServer.Data.UnitOfWork;
 using AuthServer.Service.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
@@ -40,9 +42,9 @@ namespace AuthServer.API
             services.AddScoped<IAuthenticationService, AuthenticationService>();
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<ITokenService, TokenService>();
-            services.AddScoped(typeof(IGenericRepository<>), typeof(IGenericRepository<>));
+            services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
             services.AddScoped(typeof(IGenericService<,>), typeof(GenericService<,>));
-            services.AddScoped<IUnitOfWork, IUnitOfWork>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             services.AddDbContext<AuthServerDbContext>(options =>
             {

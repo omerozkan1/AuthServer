@@ -15,7 +15,6 @@ C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\obj\Debug\net5.0\Aut
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthServer.API.AssemblyInfoInputs.cache
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthServer.API.AssemblyInfo.cs
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthServer.API.csproj.CoreCompileInputs.cache
-C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthServer.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthServer.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\obj\Debug\net5.0\staticwebassets\AuthServer.API.StaticWebAssets.Manifest.cache
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\obj\Debug\net5.0\staticwebassets\AuthServer.API.StaticWebAssets.xml
@@ -71,3 +70,6 @@ C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\bin\Debug\net5.0\run
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\AuthServer.API\obj\Debug\net5.0\AuthServer.API.MvcApplicationPartsAssemblyInfo.cs
