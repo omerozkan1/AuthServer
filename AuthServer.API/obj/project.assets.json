@@ -1543,7 +1543,7 @@
       },
       "AuthServer.Core/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
+        "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.2",
           "SharedLibrary": "1.0.0"
@@ -1560,7 +1560,7 @@
       },
       "AuthServer.Data/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
+        "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "AuthServer.Core": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.2",
@@ -1578,7 +1578,7 @@
       },
       "AuthServer.Service/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
+        "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "AuthServer.Data": "1.0.0",
           "AutoMapper": "10.1.1"
@@ -1595,7 +1595,10 @@
       },
       "SharedLibrary/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "5.0.2"
+        },
         "compile": {
           "bin/placeholder/SharedLibrary.dll": {}
         },

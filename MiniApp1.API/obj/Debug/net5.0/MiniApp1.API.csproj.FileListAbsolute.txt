@@ -29,3 +29,10 @@ C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp1.API\obj\Debug\net5.0\MiniA
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp1.API\bin\Debug\net5.0\SharedLibrary.dll
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp1.API\bin\Debug\net5.0\SharedLibrary.pdb
 C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp1.API\obj\Debug\net5.0\MiniApp1.API.csprojAssemblyReference.cache
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp1.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp1.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp1.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp1.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp1.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp1.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ÖmerÖzkan\source\repos\AuthServer\MiniApp1.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

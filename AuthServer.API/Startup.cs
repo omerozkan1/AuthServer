@@ -18,6 +18,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using SharedLibrary.Configuration;
+using SharedLibrary.Services;
 using System;
 using System.Collections.Generic;
 
