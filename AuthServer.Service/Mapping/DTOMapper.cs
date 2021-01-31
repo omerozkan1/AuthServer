@@ -4,7 +4,7 @@ using AutoMapper;
 
 namespace AuthServer.Service.Mapping
 {
-    public class DTOMapper : Profile
+    class DTOMapper : Profile
     {
         public DTOMapper()
         {
