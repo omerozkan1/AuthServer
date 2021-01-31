@@ -10,7 +10,7 @@ namespace SharedLibrary.DTO
         public ErrorDTO(string error, bool isShow)
         {
             Errors.Add(error);
-            isShow = true;
+            IsShow = isShow;
         }
         public ErrorDTO(List<string> errors, bool isShow)
         {
